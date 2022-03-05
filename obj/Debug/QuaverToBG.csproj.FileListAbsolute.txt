@@ -1,0 +1,10 @@
+C:\Users\Ruuko\Desktop\QuaverToBG\bin\Debug\QuaverToBG.exe.config
+C:\Users\Ruuko\Desktop\QuaverToBG\bin\Debug\QuaverToBG.exe
+C:\Users\Ruuko\Desktop\QuaverToBG\bin\Debug\QuaverToBG.pdb
+C:\Users\Ruuko\Desktop\QuaverToBG\obj\Debug\QuaverToBG.csproj.AssemblyReference.cache
+C:\Users\Ruuko\Desktop\QuaverToBG\obj\Debug\QuaverToBG.QuaverToBG.resources
+C:\Users\Ruuko\Desktop\QuaverToBG\obj\Debug\QuaverToBG.Properties.Resources.resources
+C:\Users\Ruuko\Desktop\QuaverToBG\obj\Debug\QuaverToBG.csproj.GenerateResource.cache
+C:\Users\Ruuko\Desktop\QuaverToBG\obj\Debug\QuaverToBG.csproj.CoreCompileInputs.cache
+C:\Users\Ruuko\Desktop\QuaverToBG\obj\Debug\QuaverToBG.exe
+C:\Users\Ruuko\Desktop\QuaverToBG\obj\Debug\QuaverToBG.pdb
